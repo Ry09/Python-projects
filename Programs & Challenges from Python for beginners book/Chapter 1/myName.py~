@@ -1,0 +1,6 @@
+def shoutOutName():
+    print("Ryne")
+
+    exit = input("Press any key to exit")
+
+shoutOutName
